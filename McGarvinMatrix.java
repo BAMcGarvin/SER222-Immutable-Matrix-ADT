@@ -7,7 +7,6 @@
  * matrixes. We can also
  * test to see if two matrixes equal one another.
  * 
- * Completion Time: 12 hours
  *
  * @author Bradley McGarvin, Ruben Acuna, tutorialspoint.com
  *         regarding Stringbuffer
